@@ -1,0 +1,8 @@
+sentence-transformers
+torch
+requests
+pandas
+beautifulsoup4
+flask
+firebase_admin
+google.cloud
